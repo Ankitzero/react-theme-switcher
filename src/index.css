@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@import './styles/themes.css';
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
