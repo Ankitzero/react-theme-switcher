@@ -252,10 +252,6 @@ The production-ready files will be in the `dist/` directory, ready for deploymen
 - ✅ Security best practices
 - ✅ Cross-device compatibility
 
-## 📝 License
-
-This project is private and created for educational purposes.
-
 ---
 
 **Ready to experience dynamic theming?** 🎨✨
